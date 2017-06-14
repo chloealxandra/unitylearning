@@ -1,0 +1,1 @@
+This repo is a progression of simple C# scripts over a month of meetings with @evilseanbot
