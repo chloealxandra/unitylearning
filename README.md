@@ -1,1 +1,1 @@
-This repo is a progression of simple C# scripts over a month of meetings with @evilseanbot
+This repo is a progression of C# scripts, including notes created over a month of meetings with @evilseanbot
